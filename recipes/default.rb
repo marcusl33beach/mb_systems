@@ -1,6 +1,5 @@
-# Cookbook Name:: local_systems
+# Cookbook Name:: mb_systems
 # Recipe:: default
 # Copyright (C) 2015 marcusbeach.co
-# All rights reserved - Do Not Redistribute
 
-include_recipe 'local_system::iptables_disable'
+include_recipe 'mb_systems::iptables_disable'

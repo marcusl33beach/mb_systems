@@ -1,4 +1,4 @@
-name             'local_system'
+name             'mb_systems'
 maintainer       'Marcus Beach'
 maintainer_email 'mrbeach.marcus@gmail.com'
 description 'Installs/Configures create'
