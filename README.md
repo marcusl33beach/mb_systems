@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # create-cookbook
 
 TODO: Enter the cookbook description here.
@@ -40,3 +41,7 @@ Include `create` in your node's `run_list`:
 ## License and Authors
 
 Author:: YOUR_NAME (<YOUR_EMAIL>)
+=======
+# mb_systems
+Cookbook to setup all my systems.
+>>>>>>> 68b2b8249f4d14eda53837b8d4785b811fb3cc4f
